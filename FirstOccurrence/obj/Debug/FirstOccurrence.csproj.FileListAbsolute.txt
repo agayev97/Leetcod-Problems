@@ -1,0 +1,7 @@
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\bin\Debug\FirstOccurrence.exe.config
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\bin\Debug\FirstOccurrence.exe
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\bin\Debug\FirstOccurrence.pdb
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\obj\Debug\FirstOccurrence.csproj.AssemblyReference.cache
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\obj\Debug\FirstOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\obj\Debug\FirstOccurrence.exe
+C:\Users\User\Documents\LeetcodeProblems\FirstOccurrence\obj\Debug\FirstOccurrence.pdb
